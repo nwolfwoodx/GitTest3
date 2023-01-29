@@ -11,8 +11,8 @@ namespace GitTest3
         static void Main(string[] args)
         {
             Console.Write("GitTest3");
-            Console.Write("this took way too long");
-            Console.Write("Added File");
+            Console.Write("This took way too long");
+            Console.Write("Deleted File");
             Console.Read();
         }
     }
