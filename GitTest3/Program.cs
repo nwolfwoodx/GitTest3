@@ -16,6 +16,7 @@ namespace GitTest3
             Console.Write("From GitTest3_local");
             Console.Write("Added in Github");
             Console.Write("Still can't push.");
+            Console.Write("Added from GitTest3_local in Github");
             Console.Read();
         }
     }
