@@ -13,6 +13,7 @@ namespace GitTest3
             Console.Write("GitTest3");
             Console.Write("This took way too long");
             Console.Write("Deleted File");
+            Console.Write("From GitTest3_local");
             Console.Read();
         }
     }
