@@ -14,6 +14,7 @@ namespace GitTest3
             Console.Write("This took way too long");
             Console.Write("Deleted File");
             Console.Write("From GitTest3_local");
+            Console.Write("Added in Github");
             Console.Read();
         }
     }
