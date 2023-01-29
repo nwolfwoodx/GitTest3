@@ -12,6 +12,7 @@ namespace GitTest3
         {
             Console.Write("GitTest3");
             Console.Write("this took way too long");
+            Console.Write("Added File");
             Console.Read();
         }
     }
