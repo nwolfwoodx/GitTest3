@@ -10,6 +10,7 @@ namespace GitTest3
     {
         static void Main(string[] args)
         {
+            Console.Write("GitTest3")
         }
     }
 }
