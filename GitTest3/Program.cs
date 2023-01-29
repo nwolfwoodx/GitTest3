@@ -15,6 +15,7 @@ namespace GitTest3
             Console.Write("Deleted File");
             Console.Write("From GitTest3_local");
             Console.Write("Added in Github");
+            Console.Write("Still can't push.");
             Console.Read();
         }
     }
