@@ -11,6 +11,7 @@ namespace GitTest3
         static void Main(string[] args)
         {
             Console.Write("GitTest3")
+            Console.Write("this took way too long")
         }
     }
 }
