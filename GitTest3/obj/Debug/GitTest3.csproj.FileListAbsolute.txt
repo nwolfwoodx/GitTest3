@@ -1,1 +1,7 @@
 C:\Desktop\GitTest3\GitTest3\bin\Debug\GitTest3.exe.config
+C:\Users\macew\GitTest3\GitTest3\bin\Debug\GitTest3.exe.config
+C:\Users\macew\GitTest3\GitTest3\obj\Debug\GitTest3.csprojResolveAssemblyReference.cache
+C:\Users\macew\GitTest3\GitTest3\bin\Debug\GitTest3.exe
+C:\Users\macew\GitTest3\GitTest3\bin\Debug\GitTest3.pdb
+C:\Users\macew\GitTest3\GitTest3\obj\Debug\GitTest3.exe
+C:\Users\macew\GitTest3\GitTest3\obj\Debug\GitTest3.pdb
