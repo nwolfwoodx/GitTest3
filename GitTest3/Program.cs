@@ -19,6 +19,7 @@ namespace GitTest3
             Console.Write("Adding local change");
             Console.Write("adding local change");
             Console.Write("adding from _local");
+            Console.Write("from Origin Master");
             Console.Read();
         }
     }
