@@ -15,6 +15,7 @@ namespace GitTest3
             Console.Write("Deleted File");
             Console.Write("Added in Github");
             Console.Write("Added from GitTest3_local in Github");
+            Console.Write("Added from local branch GitTest3_local");
             Console.Read();
         }
     }
