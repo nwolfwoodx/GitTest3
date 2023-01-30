@@ -18,6 +18,7 @@ namespace GitTest3
             Console.Write("Added from GitTest3_local in Github");
             Console.Write("Adding local change");
             Console.Write("adding local change");
+            Console.Write("adding from _local");
             Console.Read();
         }
     }
